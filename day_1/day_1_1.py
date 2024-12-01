@@ -1,4 +1,4 @@
-with open('input.txt') as f:
+with open('day_1_input.txt') as f:
     lines = f.readlines()
     list1 = []
     list2 = []
